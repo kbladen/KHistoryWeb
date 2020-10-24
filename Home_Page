@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<head>
+<html-lang:Eng-UK>
+<title>Female Spousal Murder</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="Crime, Murder, Women, Britian, Nineteenth Century">
+<meta name="author" content="Kat Bladen">
+<link rel="stylesheet" href="WordHistoryStyleSheet.css">
+</head>
+<body>
+
+<!--Website Heading-->
+<div class="header"> 
+   <a href="AttemptWebpageHome_StyleCss.html">
+        <img src="logo.png" alt="Logo">
+   </a>
+   <h1>Online World History</h1> 
+</div>
+
+<!-- Top Navigation Sub Navigation and Dropdown-->
+<div class="topnav">
+       <div class="subnav">
+           <button class="subnavbtn">Social History  <i class="fa fa-caret-down"></i></button>
+           <div class="subnav-content">
+                <a href="#socialorganisation">Social Organisation</a>
+                <a href="#education">Education</a>
+                <a href="#occupations">Occupations</a>
+            </div>
+        </div>
+        <div class="subnav">
+            <button class="subnavbtn">Cultural History  <i class="fa fa-caret-down"></i></button>
+            <div class="subnav-content">
+                <a href="#literature">Literature</a>
+                <a href="#newspapers">Newspapers</a>
+                <a href="#architecture">Architecture</a>
+            </div>
+         </div>
+       <div class="subnav">
+           <button class="subnavbtn">Crime History  <i class="fa fa-caret-down"></i></button>
+           <div class="subnav-content">
+                <a href="#theft">Theft</a>
+                <a href="#assault">Assault</a>
+                  <div class="dropdown">
+                       <button class="dropbtn">Murder</button>
+                       <div class="dropdown-content">
+                            <a href="#childmurder">Child Murder</a>
+                            <a href="AttemptWebpageFSM_StyleCss.html">Spousal Murder</a>
+                            <a href="#familymurder">Family Murder</a>
+                       </div>
+                 </div>
+            </div>
+        </div>
+       <div class="subnav">
+           <button class="subnavbtn">Criminal Justice History  <i class="fa fa-caret-down"></i></button>
+           <div class="subnav-content">
+                <a href="#policing">Policing</a>
+                <a href="#courts">Courts</a>
+                <a href="#punishment">Punishment</a>
+            </div>
+        </div>
+       <div class="subnav">
+           <button class="subnavbtn">Research Skills  <i class="fa fa-caret-down"></i></button>
+           <div class="subnav-content">
+                <a href="AttemptWebpageHistoriography_StyleCss.html">Historiography</a>
+                <a href="#studyskills">Study Skills</a>
+                <a href="#bibliography">Bibliography</a>
+            </div>
+        </div>
+</div>
+
+<!-- Side Navigation Bookmarks-->
+<ul>
+  <li><a class="active" href="#aboutthisproject">About the Project</a></li>
+  <li><a href="#abouttheauthor">About the Author</a></li>
+  <li><a href="#sitenavigation">Site navigation</a></li>
+  <li><a href="#updates">Updates to the Website</a></li>
+</ul>
+
+<!-- Main Body Text -->
+<div style="margin-left:10%;padding:1px 16px;height:1000px;">
+       <h2 class="pageheading">Home</h2>
+           <h3 id="introduction">Introduction</h3> 
+           <p>This website aims to explore the key areas in English history from the ancient to modern period, showcasing the existing arguments in historical literature and providing aid and resources for the research of both academic and popular histories.</p>
+           <h3 id="abouthteauthor">About the Author</h3> 
+           <p>Katherine Bladen-Hovell
+I am an amateur historian who received 2:1 in BA Ancient History and History at the University of Reading before studying for a Masters in Modern History at the University of York. </p>
+           <h3 id="sitenavigation">Site Navigation</h3> 
+           <p>Navigation bar is organised thematically by type of history for browsing. 
+The Research Guide contains information regarding skills for historiography, academic history, use of primary sources, bibliography and resource guides. </p>
+            <h3 id="updates">Updates to the Website</h3> 
+            <p>The website is new.</p>
+</div>
+
+<!--Footer-->
+<div class="footer">
+  <h4>Footer</h4>
+</div>
+
+</body>
+</html>
